@@ -1408,8 +1408,12 @@ export default function App() {
             style={{ textAlign: "center", padding: "30px 0", color: "#000" }}
           >
             <div style={{ fontSize: 38, marginBottom: 8 }}>👆</div>
-            <div style={{ fontSize: 13 }}>
-              Vyber fast food nahoře, pak kategorii a položky
+            <div style={{ fontSize: 13, marginBottom: 8 }}>
+              Vyber fast food nahoře, pak kategorii a položky.
+            </div>
+            <div style={{ fontSize: 13, color: "#ccc" }}>
+              Výpočet je orientační a závisí na intenzitě cvičení, věku a
+              kondici.
             </div>
           </div>
         )}
