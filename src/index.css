@@ -33,7 +33,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #f2f2f2;
-  background-image: url("/public/ff-back.jpg");
+  background-image: url("/ff-back.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
